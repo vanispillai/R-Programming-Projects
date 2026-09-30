@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,State,Product_Category,Product,Quantity,Unit_Price,Discount_Percent,Discount_Amount,Sales,Cost,Customer_Type,Payment_Method
+ORD10193,01/01/2025,North,Delhi,Furniture,Sofa,5,30000,10,15000,135000,93082.46,Returning,UPI
+ORD10382,01/03/2025,South,Kerala,Home & Kitchen,Cookware Set,2,4500,5,450,8550,6205.8,New,Credit Card
+ORD10479,01/04/2025,North,Haryana,Electronics,Headphones,1,2500,15,375,2125,1798.39,Returning,Cash
+ORD10107,01/05/2025,South,Karnataka,Electronics,Smartphone,5,25000,0,0,125000,101807.95,Returning,UPI
+ORD10090,01/05/2025,South,Tamil Nadu,Electronics,Smartwatch,4,5000,10,2000,18000,15977.22,Returning,Credit Card
+ORD10449,01/07/2025,East,Bihar,Electronics,Smartwatch,2,5000,20,2000,8000,7421.41,Returning,UPI
+ORD10088,01/08/2025,North,Haryana,Clothing,Shirt,1,1500,10,150,1350,1108.29,Returning,Credit Card
+ORD10264,01/10/2025,North,Uttar Pradesh,Home & Kitchen,Air Fryer,2,7000,15,2100,11900,9741.36,New,UPI
+ORD10338,01/11/2025,East,Jharkhand,Electronics,Smartwatch,2,5000,15,1500,8500,6726.9,Returning,Credit Card
+ORD10453,01/12/2025,South,Telangana,Furniture,Bookshelf,3,7000,20,4200,16800,14919.95,New,UPI
+ORD10111,01/12/2025,West,Gujarat,Furniture,Office Chair,2,8000,5,800,15200,10543.85,New,UPI
+ORD10280,01/12/2025,South,Kerala,Home & Kitchen,Water Bottle,3,900,5,135,2565,1665.78,Returning,Debit Card
+ORD10155,01/13/2025,North,Uttar Pradesh,Furniture,Table,2,12000,10,2400,21600,16663.17,New,UPI
+ORD10406,01/13/2025,West,Goa,Electronics,Smartphone,3,25000,5,3750,71250,51547.15,Returning,Cash
+ORD10334,01/13/2025,East,Jharkhand,Furniture,Bookshelf,5,7000,0,0,35000,25610.82,Returning,UPI
+ORD10234,01/13/2025,West,Rajasthan,Clothing,Shoes,4,2800,0,0,11200,7039.89,Returning,UPI
+ORD10394,01/13/2025,West,Goa,Furniture,Bookshelf,1,7000,0,0,7000,4889.1,New,Debit Card
+ORD10361,01/13/2025,West,Goa,Electronics,Smartphone,1,25000,5,1250,23750,15452.14,New,Credit Card
+ORD10269,01/14/2025,East,Bihar,Home & Kitchen,Air Fryer,3,7000,5,1050,19950,13773.36,New,UPI
+ORD10366,01/16/2025,East,Odisha,Home & Kitchen,Cookware Set,2,4500,0,0,9000,5726.35,Returning,UPI
+ORD10454,01/16/2025,South,Telangana,Electronics,Smartwatch,2,5000,10,1000,9000,6305.52,Returning,UPI
+ORD10225,01/16/2025,South,Kerala,Clothing,Jeans,3,2200,10,660,5940,4424.16,New,Debit Card
+ORD10113,01/17/2025,West,Goa,Furniture,Sofa,2,30000,10,6000,54000,47260.78,Returning,Cash
+ORD10417,01/17/2025,North,Haryana,Electronics,Smartwatch,1,5000,0,0,5000,3049.34,New,Cash
+ORD10492,01/17/2025,North,Haryana,Furniture,Bookshelf,3,7000,15,3150,17850,14415.54,New,UPI
+ORD10181,01/19/2025,North,Uttar Pradesh,Electronics,Smartwatch,3,5000,0,0,15000,10848.6,Returning,UPI
+ORD10109,01/20/2025,South,Karnataka,Home & Kitchen,Cookware Set,3,4500,10,1350,12150,9373.79,Returning,UPI
+ORD10065,01/21/2025,East,Jharkhand,Home & Kitchen,Air Fryer,1,7000,10,700,6300,5726.33,New,Debit Card
+ORD10390,01/21/2025,North,Uttar Pradesh,Furniture,Office Chair,4,8000,0,0,32000,22371.28,New,Cash
+ORD10252,01/21/2025,North,Delhi,Clothing,Shoes,3,2800,0,0,8400,6553.98,Returning,Credit Card
+ORD10343,01/21/2025,East,Bihar,Electronics,Smartwatch,4,5000,5,1000,19000,15687.87,Returning,Debit Card
+ORD10160,01/22/2025,West,Rajasthan,Electronics,Smartwatch,3,5000,0,0,15000,11844.56,Returning,UPI
+ORD10273,01/22/2025,West,Maharashtra,Home & Kitchen,Mixer,5,3500,10,1750,15750,11712.44,Returning,UPI
+ORD10331,01/23/2025,North,Haryana,Furniture,Table,5,12000,0,0,60000,36979.98,Returning,Credit Card
+ORD10261,01/23/2025,North,Uttar Pradesh,Clothing,Shoes,3,2800,15,1260,7140,6406.91,New,UPI
+ORD10208,01/23/2025,West,Maharashtra,Furniture,Table,3,12000,5,1800,34200,22914.99,Returning,Cash
+ORD10336,01/24/2025,West,Goa,Electronics,Smartphone,5,25000,15,18750,106250,99124.09,New,Debit Card
+ORD10420,01/24/2025,South,Kerala,Electronics,Laptop,4,55000,15,33000,187000,139995.87,New,Debit Card
+ORD10191,01/25/2025,East,Bihar,Electronics,Smartphone,5,25000,5,6250,118750,87421.66,New,UPI
+ORD10498,01/25/2025,West,Maharashtra,Clothing,Shirt,1,1500,10,150,1350,1151.43,Returning,Credit Card
+ORD10497,01/26/2025,East,Odisha,Furniture,Table,1,12000,5,600,11400,7318.22,Returning,UPI
+ORD10242,01/27/2025,East,Bihar,Clothing,Jeans,1,2200,10,220,1980,1483.03,Returning,Debit Card
+ORD10386,01/28/2025,West,Gujarat,Furniture,Table,4,12000,15,7200,40800,35179,New,Cash
+ORD10489,01/28/2025,North,Uttar Pradesh,Furniture,Bookshelf,5,7000,10,3500,31500,21094.78,Returning,Cash
+ORD10352,01/28/2025,North,Haryana,Electronics,Laptop,4,55000,10,22000,198000,155637.33,New,Debit Card
+ORD10383,01/28/2025,West,Goa,Clothing,Shirt,4,1500,20,1200,4800,4776.75,Returning,UPI
+ORD10421,01/29/2025,South,Tamil Nadu,Electronics,Headphones,2,2500,0,0,5000,3428.86,Returning,UPI
+ORD10186,01/30/2025,North,Haryana,Clothing,Shirt,4,1500,0,0,6000,4053.64,New,Debit Card
+ORD10274,01/30/2025,West,Goa,Home & Kitchen,Water Bottle,3,900,10,270,2430,1622.27,New,Credit Card
+ORD10030,01/30/2025,West,Rajasthan,Home & Kitchen,Water Bottle,3,900,0,0,2700,2139.31,Returning,Cash
+ORD10258,01/31/2025,South,Telangana,Home & Kitchen,Mixer,3,3500,5,525,9975,7961.07,New,UPI
+ORD10011,01/31/2025,East,Bihar,Clothing,Jacket,2,3500,5,350,6650,5244.7,New,Credit Card
+ORD10365,01/31/2025,East,West Bengal,Home & Kitchen,Water Bottle,4,900,5,180,3420,2429.93,New,Credit Card
+ORD10262,02/01/2025,South,Kerala,Furniture,Bookshelf,2,7000,5,700,13300,8989.08,New,Credit Card
+ORD10447,02/02/2025,East,Bihar,Electronics,Laptop,4,55000,0,0,220000,168292.78,Returning,UPI
+ORD10037,02/04/2025,West,Gujarat,Furniture,Office Chair,2,8000,10,1600,14400,11312.82,New,UPI
+ORD10204,02/04/2025,North,Delhi,Home & Kitchen,Air Fryer,1,7000,5,350,6650,5581.32,Returning,Credit Card
+ORD10174,02/04/2025,West,Gujarat,Furniture,Office Chair,2,8000,0,0,16000,12254.46,Returning,UPI
+ORD10194,02/06/2025,East,Bihar,Furniture,Bookshelf,1,7000,0,0,7000,4879.25,New,Debit Card
+ORD10192,02/06/2025,East,Bihar,Home & Kitchen,Cookware Set,3,4500,5,675,12825,9280.22,Returning,UPI
+ORD10033,02/06/2025,West,Goa,Furniture,Table,3,12000,10,3600,32400,22424.77,Returning,Credit Card
+ORD10353,02/10/2025,North,Punjab,Electronics,Smartphone,1,25000,0,0,25000,19056.61,New,UPI
+ORD10059,02/11/2025,East,Odisha,Home & Kitchen,Air Fryer,5,7000,15,5250,29750,23305.72,Returning,Credit Card
+ORD10456,02/12/2025,East,West Bengal,Home & Kitchen,Mixer,4,3500,15,2100,11900,8875.31,Returning,Cash
+ORD10401,02/13/2025,West,Maharashtra,Electronics,Smartwatch,5,5000,15,3750,21250,19641.59,Returning,Debit Card
+ORD10466,02/14/2025,East,Odisha,Home & Kitchen,Mixer,4,3500,5,700,13300,9782.47,Returning,UPI
+ORD10220,02/14/2025,East,West Bengal,Home & Kitchen,Mixer,1,3500,5,175,3325,2714.92,New,UPI
+ORD10018,02/14/2025,West,Gujarat,Clothing,Jacket,5,3500,0,0,17500,12976.96,Returning,Cash
+ORD10110,02/15/2025,East,West Bengal,Clothing,Jacket,5,3500,0,0,17500,13752.44,Returning,Debit Card
+ORD10405,02/15/2025,West,Maharashtra,Furniture,Bookshelf,2,7000,5,700,13300,9073.01,New,UPI
+ORD10102,02/16/2025,South,Tamil Nadu,Home & Kitchen,Air Fryer,1,7000,10,700,6300,4268.68,New,UPI
+ORD10141,02/17/2025,West,Maharashtra,Home & Kitchen,Water Bottle,4,900,15,540,3060,2730.25,Returning,UPI
+ORD10290,02/18/2025,West,Maharashtra,Electronics,Smartphone,1,25000,10,2500,22500,16280.2,New,Credit Card
+ORD10396,02/18/2025,West,Maharashtra,Home & Kitchen,Air Fryer,2,7000,5,700,13300,10219.87,Returning,Debit Card
+ORD10062,02/20/2025,East,Odisha,Electronics,Smartwatch,3,5000,20,3000,12000,10637.35,New,UPI
+ORD10024,02/20/2025,West,Gujarat,Home & Kitchen,Mixer,3,3500,0,0,10500,6712.04,New,UPI
+ORD10266,02/21/2025,South,Telangana,Electronics,Smartwatch,5,5000,15,3750,21250,19059.38,Returning,Credit Card
+ORD10400,02/22/2025,North,Haryana,Furniture,Table,4,12000,10,4800,43200,37599.83,Returning,UPI
+ORD10271,02/22/2025,South,Telangana,Clothing,Jacket,1,3500,5,175,3325,2669.26,Returning,Credit Card
+ORD10253,02/22/2025,West,Maharashtra,Furniture,Table,3,12000,0,0,36000,28568.19,Returning,Cash
+ORD10246,02/22/2025,South,Karnataka,Furniture,Table,3,12000,0,0,36000,27615.89,Returning,Debit Card
+ORD10403,02/22/2025,East,Jharkhand,Clothing,Shirt,5,1500,0,0,7500,5263.71,Returning,Debit Card
+ORD10398,02/23/2025,South,Kerala,Clothing,Jacket,2,3500,0,0,7000,5515.37,Returning,Debit Card
+ORD10165,02/23/2025,South,Kerala,Clothing,Jacket,2,3500,5,350,6650,4372.38,New,Credit Card
+ORD10265,02/23/2025,East,West Bengal,Electronics,Laptop,2,55000,0,0,110000,79969.44,Returning,Debit Card
+ORD10448,02/24/2025,South,Tamil Nadu,Clothing,Jeans,2,2200,5,220,4180,3039.47,Returning,UPI
+ORD10241,02/24/2025,South,Tamil Nadu,Furniture,Sofa,4,30000,0,0,120000,97699.28,Returning,Debit Card
+ORD10323,02/25/2025,West,Gujarat,Furniture,Sofa,1,30000,0,0,30000,19441.73,Returning,Credit Card
+ORD10177,02/26/2025,East,Bihar,Furniture,Bookshelf,3,7000,5,1050,19950,15647.49,New,UPI
+ORD10045,02/28/2025,West,Maharashtra,Electronics,Smartwatch,5,5000,10,2500,22500,19102.59,Returning,Debit Card
+ORD10278,02/28/2025,South,Karnataka,Electronics,Headphones,3,2500,0,0,7500,6136.38,Returning,Debit Card
+ORD10468,02/28/2025,North,Haryana,Home & Kitchen,Water Bottle,5,900,5,225,4275,3095.38,New,UPI
+ORD10493,02/28/2025,North,Uttar Pradesh,Clothing,Jacket,2,3500,5,350,6650,5009.75,Returning,Cash
+ORD10221,03/02/2025,East,West Bengal,Electronics,Smartphone,1,25000,5,1250,23750,20322.66,New,UPI
+ORD10151,03/04/2025,East,Bihar,Electronics,Headphones,3,2500,5,375,7125,5405.58,Returning,Credit Card
+ORD10095,03/05/2025,South,Kerala,Furniture,Sofa,5,30000,5,7500,142500,97432.38,Returning,UPI
+ORD10005,03/05/2025,East,Jharkhand,Electronics,Headphones,5,2500,5,625,11875,9832.13,Returning,Debit Card
+ORD10388,03/06/2025,East,West Bengal,Electronics,Smartwatch,3,5000,5,750,14250,9788.23,New,Cash
+ORD10189,03/06/2025,East,West Bengal,Clothing,Shirt,3,1500,10,450,4050,3490.36,Returning,Credit Card
+ORD10310,03/06/2025,South,Kerala,Clothing,Jeans,5,2200,0,0,11000,6908.44,New,Credit Card
+ORD10226,03/07/2025,South,Tamil Nadu,Home & Kitchen,Cookware Set,3,4500,0,0,13500,11035.6,New,Cash
+ORD10188,03/08/2025,East,Jharkhand,Home & Kitchen,Mixer,3,3500,5,525,9975,7202.58,Returning,Debit Card
+ORD10016,03/08/2025,North,Punjab,Clothing,Jeans,1,2200,20,440,1760,1380.36,New,Cash
+ORD10050,03/09/2025,South,Tamil Nadu,Electronics,Smartwatch,5,5000,10,2500,22500,17054.04,Returning,UPI
+ORD10051,03/10/2025,East,Odisha,Electronics,Laptop,2,55000,20,22000,88000,68961.52,New,Credit Card
+ORD10121,03/11/2025,West,Maharashtra,Electronics,Laptop,5,55000,20,55000,220000,179325.45,New,Debit Card
+ORD10112,03/11/2025,East,West Bengal,Clothing,Jeans,3,2200,5,330,6270,4187.07,Returning,Cash
+ORD10215,03/13/2025,East,Jharkhand,Home & Kitchen,Cookware Set,4,4500,10,1800,16200,10932.2,Returning,Debit Card
+ORD10263,03/15/2025,North,Delhi,Home & Kitchen,Air Fryer,2,7000,20,2800,11200,10290.43,Returning,Debit Card
+ORD10404,03/15/2025,North,Delhi,Clothing,Shirt,3,1500,10,450,4050,3134.15,New,Credit Card
+ORD10126,03/16/2025,West,Rajasthan,Furniture,Bookshelf,2,7000,0,0,14000,9611.82,New,UPI
+ORD10287,03/16/2025,North,Delhi,Home & Kitchen,Water Bottle,3,900,10,270,2430,1862.53,Returning,Debit Card
+ORD10017,03/16/2025,West,Rajasthan,Clothing,Jacket,2,3500,0,0,7000,4793.48,New,Debit Card
+ORD10213,03/16/2025,North,Delhi,Clothing,Shirt,5,1500,5,375,7125,5336.63,Returning,Cash
+ORD10044,03/18/2025,West,Gujarat,Furniture,Office Chair,4,8000,0,0,32000,24095.73,New,UPI
+ORD10291,03/20/2025,North,Uttar Pradesh,Home & Kitchen,Mixer,5,3500,0,0,17500,13608.47,Returning,Credit Card
+ORD10476,03/20/2025,West,Maharashtra,Home & Kitchen,Mixer,2,3500,0,0,7000,5511.84,Returning,UPI
+ORD10134,03/23/2025,North,Uttar Pradesh,Home & Kitchen,Air Fryer,1,7000,0,0,7000,4494.43,Returning,Debit Card
+ORD10319,03/24/2025,East,Odisha,Home & Kitchen,Cookware Set,2,4500,15,1350,7650,6643.91,Returning,Credit Card
+ORD10222,03/24/2025,East,West Bengal,Home & Kitchen,Air Fryer,2,7000,20,2800,11200,11039.17,Returning,Credit Card
+ORD10038,03/28/2025,North,Punjab,Clothing,Jeans,3,2200,0,0,6600,4830.28,New,UPI
+ORD10301,03/29/2025,North,Uttar Pradesh,Clothing,Jacket,1,3500,0,0,3500,2393.84,New,UPI
+ORD10494,03/31/2025,South,Telangana,Clothing,Shirt,5,1500,0,0,7500,5344.27,New,UPI
+ORD10480,03/31/2025,West,Maharashtra,Electronics,Smartphone,1,25000,10,2500,22500,19739.58,Returning,UPI
+ORD10096,04/01/2025,South,Tamil Nadu,Clothing,Shoes,5,2800,0,0,14000,8804.56,New,Credit Card
+ORD10135,04/02/2025,East,Jharkhand,Clothing,Shirt,3,1500,10,450,4050,3034.88,Returning,UPI
+ORD10434,04/02/2025,West,Maharashtra,Clothing,Jacket,4,3500,0,0,14000,10955.13,Returning,Cash
+ORD10070,04/02/2025,South,Kerala,Electronics,Smartphone,4,25000,15,15000,85000,72442.1,New,Credit Card
+ORD10341,04/04/2025,East,West Bengal,Electronics,Smartphone,1,25000,5,1250,23750,18443.97,Returning,UPI
+ORD10296,04/06/2025,West,Gujarat,Furniture,Table,4,12000,15,7200,40800,28801.99,New,Credit Card
+ORD10485,04/06/2025,North,Punjab,Furniture,Table,5,12000,10,6000,54000,43646.32,Returning,Debit Card
+ORD10473,04/08/2025,East,Bihar,Electronics,Headphones,5,2500,0,0,12500,9745.99,New,UPI
+ORD10077,04/09/2025,West,Rajasthan,Clothing,Jacket,1,3500,15,525,2975,2815.81,New,Cash
+ORD10364,04/10/2025,South,Tamil Nadu,Electronics,Smartphone,5,25000,5,6250,118750,78781.9,Returning,Debit Card
+ORD10315,04/10/2025,East,Odisha,Furniture,Sofa,5,30000,10,15000,135000,117702.21,Returning,Credit Card
+ORD10371,04/10/2025,West,Goa,Electronics,Headphones,2,2500,15,750,4250,3703.57,New,Debit Card
+ORD10349,04/11/2025,West,Maharashtra,Electronics,Laptop,4,55000,5,11000,209000,163887.13,Returning,Debit Card
+ORD10335,04/11/2025,South,Tamil Nadu,Clothing,Shoes,1,2800,10,280,2520,1719.73,Returning,Debit Card
+ORD10092,04/11/2025,West,Rajasthan,Furniture,Bookshelf,3,7000,10,2100,18900,16204.58,Returning,UPI
+ORD10408,04/12/2025,West,Gujarat,Furniture,Office Chair,5,8000,20,8000,32000,26444.83,Returning,Debit Card
+ORD10125,04/12/2025,North,Uttar Pradesh,Electronics,Smartphone,4,25000,5,5000,95000,79406.98,New,UPI
+ORD10416,04/12/2025,North,Haryana,Electronics,Smartphone,5,25000,5,6250,118750,93574.06,New,UPI
+ORD10481,04/14/2025,West,Maharashtra,Electronics,Laptop,4,55000,10,22000,198000,160569.82,Returning,Credit Card
+ORD10207,04/14/2025,West,Rajasthan,Electronics,Headphones,2,2500,10,500,4500,3613.6,Returning,Debit Card
+ORD10080,04/14/2025,West,Maharashtra,Electronics,Headphones,2,2500,20,1000,4000,3938,Returning,UPI
+ORD10470,04/14/2025,West,Rajasthan,Clothing,Shirt,5,1500,10,750,6750,5833.24,Returning,UPI
+ORD10433,04/14/2025,North,Uttar Pradesh,Electronics,Laptop,5,55000,5,13750,261250,208413.11,Returning,UPI
+ORD10311,04/17/2025,West,Maharashtra,Clothing,Jeans,3,2200,0,0,6600,4987.56,New,UPI
+ORD10117,04/18/2025,North,Punjab,Home & Kitchen,Air Fryer,1,7000,15,1050,5950,4732.72,New,Debit Card
+ORD10047,04/19/2025,West,Maharashtra,Home & Kitchen,Water Bottle,5,900,0,0,4500,2907.74,Returning,UPI
+ORD10372,04/19/2025,West,Goa,Electronics,Laptop,2,55000,10,11000,99000,82369.52,New,Debit Card
+ORD10061,04/19/2025,East,Odisha,Furniture,Bookshelf,3,7000,10,2100,18900,15545.5,New,Credit Card
+ORD10459,04/21/2025,East,Jharkhand,Electronics,Laptop,2,55000,10,11000,99000,83931.75,New,Cash
+ORD10236,04/21/2025,West,Rajasthan,Home & Kitchen,Water Bottle,4,900,20,720,2880,2233.68,New,Credit Card
+ORD10073,04/21/2025,North,Delhi,Clothing,Jeans,1,2200,0,0,2200,1658.92,Returning,Cash
+ORD10415,04/21/2025,East,West Bengal,Electronics,Smartwatch,3,5000,0,0,15000,9097.91,New,UPI
+ORD10322,04/22/2025,North,Haryana,Home & Kitchen,Air Fryer,1,7000,5,350,6650,4892.76,Returning,Debit Card
+ORD10184,04/23/2025,East,Bihar,Electronics,Laptop,1,55000,5,2750,52250,39685.41,New,Debit Card
+ORD10012,04/23/2025,East,West Bengal,Home & Kitchen,Air Fryer,1,7000,15,1050,5950,5364.65,Returning,Debit Card
+ORD10159,04/24/2025,North,Uttar Pradesh,Home & Kitchen,Mixer,3,3500,10,1050,9450,6525.37,Returning,UPI
+ORD10144,04/26/2025,West,Rajasthan,Home & Kitchen,Cookware Set,3,4500,5,675,12825,10130.75,New,UPI
+ORD10008,04/26/2025,North,Haryana,Clothing,Jeans,1,2200,10,220,1980,1325.34,Returning,Cash
+ORD10097,04/27/2025,South,Karnataka,Clothing,Shoes,3,2800,10,840,7560,5777.05,Returning,Credit Card
+ORD10397,04/28/2025,West,Gujarat,Clothing,Jeans,3,2200,0,0,6600,4739.73,New,Credit Card
+ORD10243,04/28/2025,West,Goa,Electronics,Smartphone,2,25000,15,7500,42500,33261.39,Returning,Credit Card
+ORD10429,04/29/2025,North,Delhi,Home & Kitchen,Water Bottle,5,900,5,225,4275,3644.49,Returning,UPI
+ORD10482,04/29/2025,South,Kerala,Home & Kitchen,Water Bottle,2,900,0,0,1800,1169.61,Returning,UPI
+ORD10281,04/29/2025,West,Goa,Home & Kitchen,Cookware Set,1,4500,0,0,4500,3036.98,Returning,Credit Card
+ORD10240,04/30/2025,West,Rajasthan,Home & Kitchen,Air Fryer,1,7000,20,1400,5600,4783.7,New,Debit Card
+ORD10329,04/30/2025,West,Goa,Furniture,Table,4,12000,10,4800,43200,31797.23,Returning,UPI
+ORD10309,05/01/2025,West,Gujarat,Home & Kitchen,Water Bottle,5,900,15,675,3825,3656.58,New,Cash
+ORD10031,05/02/2025,North,Uttar Pradesh,Home & Kitchen,Cookware Set,2,4500,5,450,8550,6410.02,Returning,Debit Card
+ORD10223,05/03/2025,South,Tamil Nadu,Electronics,Headphones,4,2500,5,500,9500,6258.82,Returning,UPI
+ORD10477,05/04/2025,North,Delhi,Electronics,Headphones,1,2500,5,125,2375,1722.14,Returning,Debit Card
+ORD10035,05/04/2025,South,Tamil Nadu,Clothing,Jacket,4,3500,10,1400,12600,10565.07,Returning,Debit Card
+ORD10032,05/05/2025,North,Delhi,Furniture,Table,1,12000,20,2400,9600,9109.79,Returning,Cash
+ORD10072,05/05/2025,South,Karnataka,Clothing,Shoes,2,2800,15,840,4760,3563.64,New,Debit Card
+ORD10028,05/05/2025,South,Tamil Nadu,Clothing,Shirt,3,1500,5,225,4275,3083.8,New,UPI
+ORD10002,05/06/2025,West,Maharashtra,Furniture,Table,3,12000,20,7200,28800,24572.06,New,UPI
+ORD10168,05/06/2025,East,Jharkhand,Furniture,Office Chair,4,8000,15,4800,27200,24789.69,New,Credit Card
+ORD10046,05/06/2025,West,Gujarat,Clothing,Shoes,1,2800,0,0,2800,2284.89,New,UPI
+ORD10452,05/06/2025,South,Telangana,Electronics,Headphones,3,2500,0,0,7500,5487.84,Returning,UPI
+ORD10201,05/07/2025,East,Jharkhand,Home & Kitchen,Mixer,3,3500,5,525,9975,7021.53,Returning,Debit Card
+ORD10286,05/07/2025,East,Bihar,Home & Kitchen,Water Bottle,5,900,20,900,3600,3455.52,Returning,UPI
+ORD10199,05/08/2025,North,Punjab,Furniture,Office Chair,4,8000,20,6400,25600,24532.67,Returning,UPI
+ORD10469,05/12/2025,North,Uttar Pradesh,Electronics,Laptop,5,55000,10,27500,247500,220063.15,Returning,Debit Card
+ORD10483,05/13/2025,North,Haryana,Clothing,Shoes,3,2800,0,0,8400,5750.07,Returning,Credit Card
+ORD10039,05/14/2025,North,Haryana,Electronics,Smartphone,5,25000,0,0,125000,91559.01,New,UPI
+ORD10444,05/14/2025,West,Rajasthan,Electronics,Smartphone,2,25000,5,2500,47500,39903.53,New,Debit Card
+ORD10457,05/15/2025,South,Karnataka,Furniture,Table,3,12000,5,1800,34200,22961.04,New,UPI
+ORD10187,05/15/2025,South,Telangana,Electronics,Smartwatch,1,5000,0,0,5000,3310.67,New,UPI
+ORD10197,05/16/2025,South,Tamil Nadu,Home & Kitchen,Mixer,4,3500,10,1400,12600,8689.63,New,UPI
+ORD10313,05/17/2025,West,Maharashtra,Electronics,Headphones,4,2500,5,500,9500,7817.29,Returning,UPI
+ORD10367,05/17/2025,South,Kerala,Electronics,Smartphone,2,25000,0,0,50000,31876.4,New,UPI
+ORD10413,05/18/2025,South,Karnataka,Clothing,Jeans,2,2200,10,440,3960,3491.71,New,UPI
+ORD10399,05/18/2025,West,Maharashtra,Home & Kitchen,Water Bottle,4,900,10,360,3240,2199.2,Returning,Debit Card
+ORD10075,05/19/2025,North,Haryana,Home & Kitchen,Water Bottle,5,900,0,0,4500,3280.61,Returning,Credit Card
+ORD10067,05/19/2025,West,Goa,Furniture,Office Chair,5,8000,0,0,40000,30511.88,Returning,Credit Card
+ORD10308,05/19/2025,South,Kerala,Electronics,Laptop,1,55000,5,2750,52250,33328.82,New,UPI
+ORD10346,05/20/2025,East,Odisha,Furniture,Bookshelf,3,7000,20,4200,16800,13837.13,Returning,Credit Card
+ORD10103,05/20/2025,South,Tamil Nadu,Clothing,Jeans,4,2200,20,1760,7040,5350.25,Returning,Debit Card
+ORD10195,05/21/2025,East,Bihar,Home & Kitchen,Mixer,5,3500,5,875,16625,11253.1,Returning,Credit Card
+ORD10318,05/21/2025,North,Delhi,Furniture,Bookshelf,4,7000,5,1400,26600,20244.58,New,UPI
+ORD10487,05/23/2025,East,West Bengal,Furniture,Table,4,12000,5,2400,45600,29844.11,Returning,UPI
+ORD10230,05/24/2025,North,Delhi,Clothing,Jeans,4,2200,0,0,8800,5905.35,New,UPI
+ORD10227,05/25/2025,North,Punjab,Electronics,Smartwatch,2,5000,20,2000,8000,7067.79,New,UPI
+ORD10091,05/25/2025,West,Maharashtra,Furniture,Sofa,4,30000,5,6000,114000,96007.9,New,Debit Card
+ORD10356,05/26/2025,East,Jharkhand,Furniture,Table,4,12000,15,7200,40800,37971.9,Returning,Credit Card
+ORD10150,05/27/2025,West,Goa,Home & Kitchen,Cookware Set,1,4500,15,675,3825,3483.78,Returning,Credit Card
+ORD10312,05/27/2025,East,West Bengal,Electronics,Laptop,2,55000,10,11000,99000,89541.19,New,UPI
+ORD10114,05/27/2025,South,Karnataka,Clothing,Shirt,1,1500,10,150,1350,915.35,Returning,Credit Card
+ORD10094,05/27/2025,South,Kerala,Furniture,Sofa,5,30000,10,15000,135000,91890.25,Returning,Cash
+ORD10267,05/28/2025,West,Goa,Furniture,Table,4,12000,10,4800,43200,37313.43,New,UPI
+ORD10385,05/29/2025,North,Punjab,Electronics,Laptop,4,55000,15,33000,187000,133924.67,Returning,Debit Card
+ORD10105,05/29/2025,South,Telangana,Electronics,Smartwatch,3,5000,20,3000,12000,9909.52,Returning,Credit Card
+ORD10173,06/01/2025,East,West Bengal,Electronics,Smartwatch,1,5000,5,250,4750,3834.27,Returning,Credit Card
+ORD10083,06/01/2025,North,Haryana,Electronics,Laptop,5,55000,15,41250,233750,192934.84,Returning,Credit Card
+ORD10446,06/02/2025,East,West Bengal,Clothing,Shoes,2,2800,5,280,5320,3755.57,New,UPI
+ORD10020,06/03/2025,East,West Bengal,Electronics,Laptop,5,55000,10,27500,247500,178141.15,Returning,UPI
+ORD10294,06/03/2025,South,Telangana,Clothing,Jacket,1,3500,5,175,3325,2601.09,New,UPI
+ORD10115,06/03/2025,East,West Bengal,Home & Kitchen,Cookware Set,2,4500,10,900,8100,6627,New,UPI
+ORD10021,06/04/2025,South,Karnataka,Home & Kitchen,Cookware Set,1,4500,0,0,4500,2836.44,Returning,UPI
+ORD10430,06/05/2025,West,Gujarat,Home & Kitchen,Air Fryer,2,7000,15,2100,11900,10621.89,Returning,Credit Card
+ORD10307,06/05/2025,West,Gujarat,Electronics,Smartwatch,1,5000,15,750,4250,3463.59,New,Cash
+ORD10472,06/06/2025,West,Maharashtra,Electronics,Laptop,4,55000,10,22000,198000,154583.82,Returning,Credit Card
+ORD10306,06/06/2025,North,Haryana,Furniture,Bookshelf,4,7000,20,5600,22400,16910.88,Returning,Debit Card
+ORD10250,06/07/2025,East,Odisha,Home & Kitchen,Air Fryer,4,7000,10,2800,25200,18734.61,Returning,Debit Card
+ORD10461,06/09/2025,South,Telangana,Home & Kitchen,Cookware Set,1,4500,20,900,3600,3520.73,Returning,Credit Card
+ORD10268,06/09/2025,West,Rajasthan,Home & Kitchen,Mixer,1,3500,10,350,3150,2749.68,Returning,Credit Card
+ORD10228,06/11/2025,South,Telangana,Clothing,Shirt,1,1500,10,150,1350,940.4,New,UPI
+ORD10376,06/11/2025,West,Rajasthan,Furniture,Sofa,5,30000,0,0,150000,122035.28,New,UPI
+ORD10054,06/11/2025,West,Gujarat,Clothing,Shoes,3,2800,0,0,8400,5726.39,New,Debit Card
+ORD10443,06/11/2025,North,Haryana,Clothing,Jeans,4,2200,0,0,8800,6343.99,Returning,Credit Card
+ORD10314,06/11/2025,East,Jharkhand,Electronics,Laptop,3,55000,5,8250,156750,124385.15,Returning,Debit Card
+ORD10414,06/12/2025,North,Punjab,Electronics,Smartphone,2,25000,15,7500,42500,36322.58,Returning,UPI
+ORD10140,06/12/2025,North,Uttar Pradesh,Home & Kitchen,Cookware Set,1,4500,0,0,4500,2721.81,Returning,Cash
+ORD10180,06/12/2025,East,West Bengal,Electronics,Smartphone,2,25000,5,2500,47500,40413.02,Returning,UPI
+ORD10093,06/13/2025,South,Karnataka,Electronics,Smartwatch,2,5000,10,1000,9000,6015.46,New,UPI
+ORD10203,06/13/2025,East,Jharkhand,Furniture,Bookshelf,2,7000,10,1400,12600,9003.19,New,UPI
+ORD10407,06/14/2025,South,Telangana,Electronics,Laptop,4,55000,20,44000,176000,134148.37,New,UPI
+ORD10052,06/14/2025,South,Tamil Nadu,Clothing,Shirt,4,1500,5,300,5700,4570.87,New,UPI
+ORD10086,06/14/2025,East,Jharkhand,Electronics,Smartphone,5,25000,10,12500,112500,100777.22,New,UPI
+ORD10369,06/15/2025,East,West Bengal,Home & Kitchen,Mixer,2,3500,0,0,7000,4885.68,Returning,UPI
+ORD10172,06/18/2025,North,Uttar Pradesh,Home & Kitchen,Mixer,5,3500,0,0,17500,12597.66,Returning,UPI
+ORD10438,06/19/2025,West,Maharashtra,Electronics,Smartphone,4,25000,10,10000,90000,74636.43,Returning,UPI
+ORD10034,06/19/2025,South,Telangana,Electronics,Laptop,4,55000,5,11000,209000,142911.24,New,UPI
+ORD10422,06/20/2025,South,Kerala,Home & Kitchen,Mixer,3,3500,20,2100,8400,7985.98,New,Debit Card
+ORD10163,06/20/2025,West,Maharashtra,Home & Kitchen,Water Bottle,3,900,15,405,2295,1792.61,New,Cash
+ORD10101,06/22/2025,East,Odisha,Clothing,Shoes,2,2800,10,560,5040,3708.34,New,Credit Card
+ORD10218,06/22/2025,North,Haryana,Home & Kitchen,Air Fryer,3,7000,0,0,21000,16390.14,New,Cash
+ORD10374,06/22/2025,West,Gujarat,Furniture,Table,1,12000,5,600,11400,7818.25,New,UPI
+ORD10440,06/24/2025,East,Jharkhand,Electronics,Headphones,1,2500,0,0,2500,1864.47,New,Credit Card
+ORD10136,06/24/2025,North,Punjab,Home & Kitchen,Air Fryer,3,7000,5,1050,19950,14026.19,Returning,Credit Card
+ORD10432,06/24/2025,South,Telangana,Electronics,Smartwatch,4,5000,0,0,20000,12009.26,Returning,Debit Card
+ORD10330,06/24/2025,West,Gujarat,Electronics,Laptop,5,55000,10,27500,247500,214884.36,Returning,Credit Card
+ORD10007,06/25/2025,North,Haryana,Home & Kitchen,Water Bottle,2,900,5,90,1710,1409.74,Returning,UPI
+ORD10320,06/26/2025,South,Telangana,Furniture,Bookshelf,3,7000,10,2100,18900,15060.96,Returning,UPI
+ORD10270,06/27/2025,East,Odisha,Electronics,Laptop,5,55000,10,27500,247500,166882.49,Returning,Credit Card
+ORD10324,06/28/2025,South,Kerala,Clothing,Shoes,4,2800,0,0,11200,7016.29,Returning,UPI
+ORD10132,06/28/2025,North,Delhi,Clothing,Jacket,2,3500,10,700,6300,4423.25,Returning,Debit Card
+ORD10437,06/30/2025,West,Goa,Clothing,Jacket,4,3500,10,1400,12600,9190.62,Returning,UPI
+ORD10419,07/01/2025,West,Goa,Electronics,Headphones,3,2500,15,1125,6375,6033.55,Returning,UPI
+ORD10260,07/02/2025,East,Odisha,Clothing,Jacket,3,3500,10,1050,9450,8391.38,Returning,UPI
+ORD10122,07/02/2025,North,Punjab,Electronics,Smartphone,1,25000,10,2500,22500,19028.47,New,Debit Card
+ORD10235,07/03/2025,West,Goa,Clothing,Shirt,4,1500,5,300,5700,4506.66,Returning,Cash
+ORD10175,07/03/2025,West,Rajasthan,Electronics,Laptop,5,55000,0,0,275000,166085.71,New,UPI
+ORD10108,07/03/2025,West,Maharashtra,Clothing,Shirt,5,1500,0,0,7500,5112.49,New,UPI
+ORD10435,07/05/2025,West,Goa,Home & Kitchen,Air Fryer,4,7000,5,1400,26600,17049.84,Returning,UPI
+ORD10325,07/05/2025,South,Kerala,Home & Kitchen,Mixer,4,3500,15,2100,11900,8610.49,New,UPI
+ORD10439,07/06/2025,East,Jharkhand,Home & Kitchen,Cookware Set,2,4500,0,0,9000,6984.7,New,Credit Card
+ORD10424,07/07/2025,East,Odisha,Clothing,Jacket,5,3500,0,0,17500,13083.13,Returning,Cash
+ORD10198,07/07/2025,West,Maharashtra,Home & Kitchen,Air Fryer,3,7000,5,1050,19950,14247.82,New,UPI
+ORD10217,07/07/2025,West,Gujarat,Electronics,Smartwatch,5,5000,5,1250,23750,19029.49,Returning,Credit Card
+ORD10232,07/07/2025,West,Rajasthan,Clothing,Jacket,5,3500,5,875,16625,14272.16,New,UPI
+ORD10156,07/08/2025,South,Telangana,Home & Kitchen,Air Fryer,1,7000,10,700,6300,4417.08,Returning,Debit Card
+ORD10275,07/10/2025,North,Uttar Pradesh,Home & Kitchen,Air Fryer,4,7000,10,2800,25200,20999.08,New,Cash
+ORD10206,07/10/2025,North,Punjab,Furniture,Sofa,2,30000,5,3000,57000,41908.36,New,UPI
+ORD10129,07/11/2025,West,Maharashtra,Home & Kitchen,Air Fryer,3,7000,10,2100,18900,15484.85,Returning,UPI
+ORD10205,07/13/2025,West,Goa,Electronics,Headphones,3,2500,5,375,7125,5358.31,Returning,Debit Card
+ORD10171,07/13/2025,West,Gujarat,Home & Kitchen,Cookware Set,5,4500,15,3375,19125,17817.07,New,UPI
+ORD10471,07/14/2025,North,Haryana,Home & Kitchen,Mixer,1,3500,0,0,3500,2266.36,Returning,UPI
+ORD10040,07/15/2025,East,Odisha,Clothing,Shirt,3,1500,0,0,4500,2722.7,Returning,UPI
+ORD10321,07/17/2025,West,Goa,Clothing,Jacket,4,3500,5,700,13300,10356.07,New,Debit Card
+ORD10495,07/18/2025,North,Haryana,Electronics,Laptop,2,55000,15,16500,93500,70008.21,Returning,UPI
+ORD10342,07/20/2025,West,Maharashtra,Clothing,Jeans,1,2200,10,220,1980,1577.16,Returning,Cash
+ORD10042,07/20/2025,East,Jharkhand,Electronics,Headphones,4,2500,10,1000,9000,7400.28,New,Debit Card
+ORD10200,07/20/2025,East,West Bengal,Electronics,Smartwatch,5,5000,15,3750,21250,16520.43,Returning,Cash
+ORD10001,07/21/2025,East,Bihar,Electronics,Headphones,4,2500,10,1000,9000,7513.35,New,Cash
+ORD10128,07/22/2025,North,Punjab,Electronics,Laptop,5,55000,10,27500,247500,212656.64,Returning,UPI
+ORD10289,07/23/2025,North,Punjab,Furniture,Office Chair,3,8000,5,1200,22800,19171.05,New,UPI
+ORD10009,07/23/2025,East,Jharkhand,Clothing,Shoes,4,2800,15,1680,9520,8566.88,Returning,Credit Card
+ORD10170,07/23/2025,South,Kerala,Home & Kitchen,Water Bottle,4,900,15,540,3060,2429.1,Returning,Debit Card
+ORD10475,07/24/2025,East,West Bengal,Clothing,Jeans,4,2200,5,440,8360,6029.99,Returning,Credit Card
+ORD10277,07/24/2025,North,Haryana,Furniture,Table,4,12000,0,0,48000,35719.78,Returning,Debit Card
+ORD10455,07/27/2025,North,Punjab,Electronics,Headphones,5,2500,5,625,11875,7818.28,Returning,Debit Card
+ORD10158,07/27/2025,South,Karnataka,Electronics,Headphones,5,2500,15,1875,10625,8094.25,Returning,UPI
+ORD10299,07/28/2025,North,Haryana,Clothing,Jacket,3,3500,5,525,9975,7176.65,New,Debit Card
+ORD10362,07/29/2025,North,Uttar Pradesh,Home & Kitchen,Cookware Set,5,4500,5,1125,21375,18007.85,Returning,Credit Card
+ORD10345,07/30/2025,East,Odisha,Home & Kitchen,Cookware Set,3,4500,5,675,12825,9374.67,Returning,UPI
+ORD10332,08/01/2025,North,Uttar Pradesh,Home & Kitchen,Mixer,2,3500,0,0,7000,4548.58,New,Debit Card
+ORD10081,08/02/2025,East,Jharkhand,Furniture,Sofa,4,30000,15,18000,102000,77954.29,New,Credit Card
+ORD10162,08/02/2025,North,Punjab,Home & Kitchen,Air Fryer,4,7000,20,5600,22400,21415.59,Returning,Credit Card
+ORD10257,08/02/2025,East,Odisha,Home & Kitchen,Mixer,5,3500,5,875,16625,10835.64,New,Debit Card
+ORD10467,08/02/2025,West,Maharashtra,Home & Kitchen,Mixer,2,3500,15,1050,5950,4329.96,Returning,Credit Card
+ORD10297,08/02/2025,South,Kerala,Electronics,Headphones,2,2500,10,500,4500,3185.99,Returning,Debit Card
+ORD10239,08/03/2025,East,Bihar,Home & Kitchen,Air Fryer,3,7000,0,0,21000,13569.06,New,Credit Card
+ORD10377,08/04/2025,West,Goa,Furniture,Office Chair,3,8000,0,0,24000,15786.93,Returning,Debit Card
+ORD10127,08/04/2025,South,Karnataka,Home & Kitchen,Mixer,1,3500,0,0,3500,2737.46,Returning,Cash
+ORD10465,08/05/2025,West,Gujarat,Furniture,Office Chair,2,8000,0,0,16000,11474.37,New,UPI
+ORD10328,08/05/2025,East,Jharkhand,Home & Kitchen,Water Bottle,1,900,10,90,810,652.3,Returning,UPI
+ORD10478,08/06/2025,West,Rajasthan,Home & Kitchen,Air Fryer,3,7000,5,1050,19950,12958.58,Returning,UPI
+ORD10326,08/06/2025,South,Telangana,Home & Kitchen,Mixer,4,3500,5,700,13300,9211.01,Returning,Debit Card
+ORD10133,08/07/2025,North,Haryana,Clothing,Shoes,2,2800,10,560,5040,4253.39,Returning,Credit Card
+ORD10244,08/09/2025,North,Delhi,Electronics,Headphones,1,2500,0,0,2500,2005.01,Returning,Cash
+ORD10441,08/10/2025,North,Haryana,Furniture,Bookshelf,3,7000,0,0,21000,13026.36,Returning,UPI
+ORD10178,08/10/2025,East,Odisha,Home & Kitchen,Air Fryer,2,7000,10,1400,12600,8897.79,New,Credit Card
+ORD10445,08/12/2025,West,Maharashtra,Electronics,Laptop,5,55000,10,27500,247500,189456.5,Returning,Cash
+ORD10048,08/12/2025,East,Odisha,Electronics,Headphones,2,2500,20,1000,4000,3907.64,Returning,Cash
+ORD10147,08/13/2025,East,Jharkhand,Home & Kitchen,Air Fryer,3,7000,20,4200,16800,13650.63,Returning,Credit Card
+ORD10464,08/13/2025,North,Delhi,Furniture,Table,4,12000,0,0,48000,36137.96,New,Credit Card
+ORD10474,08/14/2025,West,Gujarat,Clothing,Shoes,1,2800,20,560,2240,1721.51,New,Cash
+ORD10358,08/15/2025,West,Goa,Furniture,Office Chair,2,8000,0,0,16000,12964.5,New,Debit Card
+ORD10393,08/15/2025,West,Maharashtra,Electronics,Laptop,3,55000,15,24750,140250,116051.7,Returning,Credit Card
+ORD10458,08/16/2025,West,Goa,Home & Kitchen,Air Fryer,5,7000,10,3500,31500,25911.65,Returning,UPI
+ORD10124,08/16/2025,East,Odisha,Clothing,Shoes,3,2800,0,0,8400,5276.52,New,Debit Card
+ORD10423,08/16/2025,South,Kerala,Electronics,Smartwatch,3,5000,10,1500,13500,11911.45,New,Debit Card
+ORD10363,08/17/2025,North,Uttar Pradesh,Clothing,Jacket,1,3500,10,350,3150,2457.61,Returning,Debit Card
+ORD10426,08/18/2025,North,Delhi,Home & Kitchen,Mixer,1,3500,5,175,3325,2619.45,Returning,Debit Card
+ORD10245,08/19/2025,East,Jharkhand,Furniture,Table,2,12000,10,2400,21600,14984.75,Returning,Debit Card
+ORD10196,08/20/2025,South,Tamil Nadu,Home & Kitchen,Water Bottle,2,900,15,270,1530,1153.94,Returning,Debit Card
+ORD10442,08/21/2025,West,Maharashtra,Furniture,Sofa,1,30000,10,3000,27000,21935.72,Returning,UPI
+ORD10249,08/21/2025,North,Haryana,Home & Kitchen,Air Fryer,5,7000,15,5250,29750,26017.84,New,UPI
+ORD10491,08/21/2025,West,Goa,Furniture,Sofa,2,30000,10,6000,54000,36361.95,New,Credit Card
+ORD10229,08/22/2025,North,Delhi,Home & Kitchen,Cookware Set,2,4500,15,1350,7650,6835.87,Returning,Cash
+ORD10023,08/22/2025,South,Kerala,Home & Kitchen,Mixer,2,3500,0,0,7000,4202.9,Returning,UPI
+ORD10333,08/23/2025,West,Rajasthan,Furniture,Sofa,3,30000,0,0,90000,68458.87,Returning,UPI
+ORD10392,08/23/2025,East,Bihar,Furniture,Table,2,12000,5,1200,22800,17686.9,New,Credit Card
+ORD10359,08/24/2025,North,Punjab,Clothing,Jacket,1,3500,0,0,3500,2119.36,New,UPI
+ORD10118,08/24/2025,South,Tamil Nadu,Home & Kitchen,Mixer,2,3500,5,350,6650,4685.39,New,UPI
+ORD10375,08/25/2025,North,Punjab,Clothing,Jeans,3,2200,20,1320,5280,5102.36,Returning,UPI
+ORD10137,08/27/2025,North,Punjab,Electronics,Laptop,5,55000,20,55000,220000,222295.68,Returning,UPI
+ORD10292,08/29/2025,East,Jharkhand,Clothing,Jeans,3,2200,15,990,5610,4045.8,Returning,UPI
+ORD10131,08/30/2025,West,Goa,Electronics,Headphones,3,2500,20,1500,6000,6116.26,New,Cash
+ORD10450,09/01/2025,South,Telangana,Furniture,Bookshelf,4,7000,10,2800,25200,20782.13,Returning,Debit Card
+ORD10029,09/02/2025,West,Maharashtra,Clothing,Jeans,2,2200,10,440,3960,3029.45,New,UPI
+ORD10104,09/03/2025,West,Gujarat,Electronics,Laptop,4,55000,15,33000,187000,145344.84,New,UPI
+ORD10106,09/03/2025,South,Telangana,Clothing,Jacket,4,3500,15,2100,11900,10824.35,Returning,UPI
+ORD10284,09/05/2025,East,Bihar,Clothing,Jeans,5,2200,20,2200,8800,7472.11,Returning,UPI
+ORD10082,09/06/2025,West,Rajasthan,Home & Kitchen,Cookware Set,2,4500,5,450,8550,6146.29,New,Debit Card
+ORD10130,09/06/2025,West,Goa,Electronics,Smartphone,2,25000,10,5000,45000,35439.29,Returning,UPI
+ORD10063,09/07/2025,North,Delhi,Electronics,Smartwatch,4,5000,15,3000,17000,12784.31,Returning,Credit Card
+ORD10123,09/07/2025,South,Telangana,Electronics,Smartphone,1,25000,5,1250,23750,18015.76,New,UPI
+ORD10084,09/07/2025,West,Rajasthan,Electronics,Smartwatch,1,5000,5,250,4750,3529,Returning,Credit Card
+ORD10391,09/09/2025,East,Jharkhand,Electronics,Smartphone,2,25000,15,7500,42500,35202.68,Returning,Credit Card
+ORD10078,09/09/2025,West,Rajasthan,Clothing,Jeans,3,2200,20,1320,5280,5096.31,Returning,Cash
+ORD10357,09/13/2025,South,Karnataka,Electronics,Laptop,1,55000,10,5500,49500,33782.71,Returning,Cash
+ORD10202,09/14/2025,West,Maharashtra,Clothing,Jeans,5,2200,10,1100,9900,8155.27,New,Cash
+ORD10410,09/15/2025,South,Karnataka,Clothing,Shirt,5,1500,15,1125,6375,4969.53,Returning,Credit Card
+ORD10216,09/16/2025,North,Haryana,Furniture,Sofa,2,30000,0,0,60000,40800.75,New,Debit Card
+ORD10138,09/17/2025,North,Delhi,Electronics,Laptop,5,55000,15,41250,233750,223525.05,New,UPI
+ORD10019,09/17/2025,West,Rajasthan,Furniture,Sofa,2,30000,0,0,60000,46301.28,New,Cash
+ORD10276,09/17/2025,West,Gujarat,Furniture,Sofa,2,30000,10,6000,54000,38206.14,Returning,UPI
+ORD10211,09/17/2025,East,Odisha,Electronics,Laptop,4,55000,0,0,220000,175423.82,Returning,UPI
+ORD10026,09/19/2025,South,Tamil Nadu,Clothing,Jacket,2,3500,10,700,6300,4457,Returning,UPI
+ORD10379,09/20/2025,South,Karnataka,Electronics,Smartwatch,1,5000,20,1000,4000,3520.19,Returning,Credit Card
+ORD10463,09/21/2025,South,Tamil Nadu,Furniture,Table,2,12000,10,2400,21600,18729.67,Returning,UPI
+ORD10279,09/21/2025,North,Delhi,Electronics,Smartwatch,3,5000,15,2250,12750,9239.81,Returning,Cash
+ORD10182,09/21/2025,East,West Bengal,Home & Kitchen,Cookware Set,5,4500,0,0,22500,17216.11,Returning,Debit Card
+ORD10303,09/21/2025,East,Bihar,Clothing,Jacket,2,3500,15,1050,5950,4835.65,Returning,Credit Card
+ORD10378,09/21/2025,North,Punjab,Clothing,Jeans,3,2200,10,660,5940,4354.32,Returning,UPI
+ORD10209,09/22/2025,South,Tamil Nadu,Electronics,Smartwatch,5,5000,15,3750,21250,18374.1,Returning,Cash
+ORD10099,09/24/2025,South,Karnataka,Furniture,Sofa,3,30000,10,9000,81000,63346.8,Returning,Credit Card
+ORD10418,09/25/2025,South,Tamil Nadu,Electronics,Smartphone,3,25000,10,7500,67500,52434.85,Returning,Cash
+ORD10251,09/26/2025,South,Telangana,Clothing,Shoes,4,2800,10,1120,10080,7346.65,Returning,Credit Card
+ORD10431,09/29/2025,North,Punjab,Home & Kitchen,Water Bottle,5,900,5,225,4275,3554.25,Returning,Debit Card
+ORD10339,09/30/2025,West,Goa,Electronics,Smartwatch,3,5000,5,750,14250,10123.34,Returning,UPI
+ORD10076,09/30/2025,South,Karnataka,Clothing,Jacket,1,3500,10,350,3150,2637.21,New,Debit Card
+ORD10295,10/01/2025,South,Karnataka,Clothing,Shoes,2,2800,20,1120,4480,4437.05,Returning,UPI
+ORD10381,10/01/2025,West,Maharashtra,Clothing,Jeans,1,2200,0,0,2200,1450.18,New,Cash
+ORD10041,10/01/2025,East,Bihar,Electronics,Headphones,2,2500,20,1000,4000,3354.32,Returning,UPI
+ORD10085,10/02/2025,East,Jharkhand,Electronics,Smartphone,1,25000,5,1250,23750,17393.49,Returning,Debit Card
+ORD10254,10/02/2025,North,Punjab,Home & Kitchen,Air Fryer,4,7000,0,0,28000,20036.68,Returning,Cash
+ORD10169,10/04/2025,East,West Bengal,Clothing,Jacket,5,3500,10,1750,15750,12414.44,Returning,Credit Card
+ORD10049,10/05/2025,South,Tamil Nadu,Clothing,Shirt,1,1500,5,75,1425,1071.7,Returning,UPI
+ORD10490,10/05/2025,North,Punjab,Furniture,Office Chair,3,8000,15,3600,20400,16353.88,New,UPI
+ORD10409,10/07/2025,West,Rajasthan,Clothing,Jeans,5,2200,20,2200,8800,8576.37,Returning,Credit Card
+ORD10071,10/07/2025,South,Telangana,Clothing,Jeans,1,2200,20,440,1760,1794.15,Returning,Debit Card
+ORD10340,10/08/2025,West,Maharashtra,Electronics,Laptop,5,55000,10,27500,247500,224836.22,Returning,Cash
+ORD10256,10/08/2025,East,Bihar,Electronics,Smartwatch,4,5000,5,1000,19000,12496.95,Returning,UPI
+ORD10183,10/09/2025,South,Kerala,Clothing,Shirt,5,1500,10,750,6750,5420.67,Returning,UPI
+ORD10436,10/10/2025,West,Maharashtra,Clothing,Shoes,4,2800,20,2240,8960,8867.62,Returning,Credit Card
+ORD10089,10/11/2025,West,Gujarat,Furniture,Bookshelf,1,7000,10,700,6300,4276.76,Returning,UPI
+ORD10043,10/12/2025,South,Kerala,Home & Kitchen,Water Bottle,1,900,0,0,900,569.5,Returning,UPI
+ORD10176,10/13/2025,South,Karnataka,Clothing,Shirt,5,1500,15,1125,6375,4708.32,New,Debit Card
+ORD10157,10/14/2025,East,Odisha,Furniture,Table,1,12000,10,1200,10800,8953.46,Returning,UPI
+ORD10488,10/15/2025,West,Rajasthan,Home & Kitchen,Water Bottle,4,900,0,0,3600,2864.6,Returning,Debit Card
+ORD10210,10/17/2025,North,Delhi,Electronics,Smartphone,2,25000,10,5000,45000,33994.11,Returning,Debit Card
+ORD10237,10/17/2025,South,Karnataka,Electronics,Laptop,2,55000,5,5500,104500,66710.61,New,Credit Card
+ORD10282,10/17/2025,West,Goa,Home & Kitchen,Water Bottle,4,900,0,0,3600,2846.18,New,Debit Card
+ORD10219,10/17/2025,West,Goa,Electronics,Smartphone,1,25000,0,0,25000,16722.39,New,UPI
+ORD10190,10/19/2025,South,Tamil Nadu,Electronics,Smartwatch,1,5000,10,500,4500,3409.13,New,Cash
+ORD10380,10/19/2025,North,Punjab,Electronics,Laptop,1,55000,15,8250,46750,44904.47,Returning,UPI
+ORD10347,10/20/2025,East,Odisha,Clothing,Shoes,1,2800,0,0,2800,2166.12,New,Credit Card
+ORD10004,10/21/2025,East,Jharkhand,Furniture,Bookshelf,1,7000,5,350,6650,5007.21,Returning,UPI
+ORD10152,10/21/2025,East,West Bengal,Home & Kitchen,Cookware Set,1,4500,10,450,4050,3306.77,Returning,Credit Card
+ORD10298,10/21/2025,East,West Bengal,Clothing,Jeans,5,2200,0,0,11000,7543.22,Returning,UPI
+ORD10247,10/22/2025,North,Haryana,Clothing,Shoes,2,2800,5,280,5320,4577.3,Returning,UPI
+ORD10238,10/22/2025,South,Kerala,Electronics,Headphones,4,2500,5,500,9500,7810.51,New,UPI
+ORD10166,10/25/2025,North,Delhi,Furniture,Table,2,12000,5,1200,22800,16279.54,New,UPI
+ORD10348,10/25/2025,West,Maharashtra,Electronics,Smartwatch,1,5000,0,0,5000,3630.68,Returning,UPI
+ORD10066,10/27/2025,South,Kerala,Clothing,Jacket,5,3500,5,875,16625,13376.8,Returning,UPI
+ORD10499,10/28/2025,North,Uttar Pradesh,Home & Kitchen,Air Fryer,5,7000,15,5250,29750,28289.16,New,Credit Card
+ORD10179,10/30/2025,North,Haryana,Furniture,Table,3,12000,0,0,36000,23623.51,New,UPI
+ORD10355,10/30/2025,West,Gujarat,Electronics,Smartwatch,2,5000,5,500,9500,6071.82,Returning,UPI
+ORD10402,10/30/2025,West,Goa,Clothing,Shirt,1,1500,0,0,1500,994.02,New,Credit Card
+ORD10350,10/31/2025,East,Jharkhand,Electronics,Smartphone,1,25000,15,3750,21250,16387.69,New,Cash
+ORD10116,10/31/2025,West,Rajasthan,Furniture,Bookshelf,1,7000,10,700,6300,5065.47,Returning,UPI
+ORD10003,11/01/2025,North,Delhi,Home & Kitchen,Cookware Set,5,4500,5,1125,21375,16166.54,Returning,Debit Card
+ORD10053,11/01/2025,East,Odisha,Clothing,Jacket,2,3500,0,0,7000,4563.22,New,Credit Card
+ORD10302,11/02/2025,North,Uttar Pradesh,Home & Kitchen,Mixer,4,3500,0,0,14000,8796.85,New,UPI
+ORD10025,11/02/2025,West,Gujarat,Clothing,Shirt,5,1500,10,750,6750,4547.97,Returning,Credit Card
+ORD10317,11/03/2025,East,West Bengal,Furniture,Table,5,12000,0,0,60000,44201.75,New,Credit Card
+ORD10460,11/03/2025,East,Bihar,Clothing,Jacket,5,3500,0,0,17500,12540.47,Returning,Cash
+ORD10119,11/04/2025,West,Goa,Electronics,Smartphone,3,25000,15,11250,63750,57735.65,Returning,UPI
+ORD10057,11/05/2025,West,Maharashtra,Clothing,Jeans,3,2200,15,990,5610,5073.09,New,Credit Card
+ORD10100,11/06/2025,North,Punjab,Clothing,Shirt,5,1500,15,1125,6375,4522.11,Returning,UPI
+ORD10370,11/06/2025,East,Jharkhand,Clothing,Jeans,2,2200,10,440,3960,3403.56,New,Credit Card
+ORD10387,11/06/2025,East,West Bengal,Clothing,Jeans,3,2200,5,330,6270,5277.52,New,UPI
+ORD10484,11/08/2025,South,Telangana,Clothing,Jacket,5,3500,0,0,17500,12232.97,New,Debit Card
+ORD10255,11/09/2025,North,Uttar Pradesh,Clothing,Shirt,5,1500,0,0,7500,4903.16,New,Cash
+ORD10451,11/09/2025,South,Telangana,Clothing,Shoes,2,2800,5,280,5320,4454.06,Returning,Credit Card
+ORD10395,11/09/2025,East,West Bengal,Electronics,Laptop,4,55000,20,44000,176000,154955.56,Returning,Credit Card
+ORD10027,11/11/2025,South,Kerala,Home & Kitchen,Air Fryer,4,7000,5,1400,26600,17916.93,New,UPI
+ORD10327,11/12/2025,East,Bihar,Electronics,Smartphone,1,25000,0,0,25000,15253.68,Returning,UPI
+ORD10167,11/16/2025,West,Goa,Electronics,Smartwatch,5,5000,10,2500,22500,20379.34,Returning,UPI
+ORD10305,11/16/2025,South,Kerala,Home & Kitchen,Mixer,3,3500,10,1050,9450,7406.65,Returning,Cash
+ORD10010,11/17/2025,South,Karnataka,Electronics,Smartwatch,3,5000,10,1500,13500,11503.63,Returning,Cash
+ORD10427,11/17/2025,North,Delhi,Electronics,Laptop,4,55000,0,0,220000,146361.62,New,UPI
+ORD10248,11/17/2025,North,Haryana,Electronics,Laptop,2,55000,15,16500,93500,87811.36,Returning,UPI
+ORD10233,11/18/2025,West,Maharashtra,Furniture,Bookshelf,5,7000,15,5250,29750,26052.23,New,Credit Card
+ORD10153,11/19/2025,North,Uttar Pradesh,Clothing,Jeans,2,2200,0,0,4400,2858.91,Returning,Cash
+ORD10164,11/19/2025,West,Goa,Clothing,Jacket,5,3500,10,1750,15750,13529.84,Returning,Credit Card
+ORD10069,11/20/2025,West,Maharashtra,Electronics,Headphones,1,2500,5,125,2375,1611.62,New,Debit Card
+ORD10014,11/21/2025,East,Bihar,Clothing,Shirt,2,1500,10,300,2700,2110.41,Returning,UPI
+ORD10154,11/21/2025,East,Odisha,Home & Kitchen,Air Fryer,4,7000,0,0,28000,22017.02,Returning,Debit Card
+ORD10006,11/21/2025,West,Rajasthan,Clothing,Jacket,1,3500,10,350,3150,2746.77,New,Cash
+ORD10304,11/21/2025,South,Kerala,Clothing,Shoes,4,2800,0,0,11200,8697,Returning,UPI
+ORD10384,11/22/2025,North,Uttar Pradesh,Clothing,Shirt,2,1500,5,150,2850,1801.93,New,Credit Card
+ORD10185,11/23/2025,North,Delhi,Electronics,Headphones,3,2500,10,750,6750,4655.35,New,UPI
+ORD10143,11/24/2025,West,Gujarat,Furniture,Office Chair,2,8000,0,0,16000,9912.72,New,UPI
+ORD10149,11/24/2025,North,Punjab,Home & Kitchen,Mixer,5,3500,0,0,17500,12588.8,New,UPI
+ORD10142,11/25/2025,North,Delhi,Furniture,Office Chair,5,8000,15,6000,34000,27678.31,Returning,UPI
+ORD10368,11/25/2025,South,Telangana,Electronics,Laptop,2,55000,15,16500,93500,88944.22,Returning,UPI
+ORD10486,11/27/2025,South,Telangana,Home & Kitchen,Cookware Set,1,4500,15,675,3825,3451.76,New,UPI
+ORD10462,11/27/2025,North,Punjab,Clothing,Shirt,3,1500,10,450,4050,3681.35,Returning,UPI
+ORD10272,12/01/2025,West,Gujarat,Furniture,Bookshelf,5,7000,10,3500,31500,21818.85,Returning,UPI
+ORD10259,12/03/2025,West,Goa,Home & Kitchen,Air Fryer,1,7000,0,0,7000,4846.98,New,UPI
+ORD10145,12/03/2025,West,Maharashtra,Furniture,Office Chair,1,8000,15,1200,6800,5759.39,Returning,Cash
+ORD10146,12/03/2025,East,Jharkhand,Home & Kitchen,Air Fryer,3,7000,0,0,21000,17129.99,Returning,Credit Card
+ORD10411,12/03/2025,East,Jharkhand,Furniture,Sofa,3,30000,5,4500,85500,70200.49,Returning,UPI
+ORD10316,12/04/2025,West,Gujarat,Clothing,Jacket,4,3500,0,0,14000,11423.94,Returning,UPI
+ORD10283,12/04/2025,South,Telangana,Home & Kitchen,Water Bottle,4,900,0,0,3600,2330.7,Returning,Cash
+ORD10079,12/04/2025,East,Odisha,Furniture,Table,5,12000,5,3000,57000,36741,Returning,UPI
+ORD10500,12/05/2025,West,Goa,Clothing,Shirt,4,1500,10,600,5400,4048.49,Returning,UPI
+ORD10344,12/06/2025,South,Tamil Nadu,Furniture,Bookshelf,1,7000,0,0,7000,4639.35,Returning,Credit Card
+ORD10428,12/06/2025,West,Maharashtra,Furniture,Bookshelf,1,7000,20,1400,5600,5306.38,Returning,Cash
+ORD10087,12/07/2025,South,Telangana,Home & Kitchen,Mixer,1,3500,5,175,3325,2643.63,Returning,Cash
+ORD10064,12/07/2025,North,Uttar Pradesh,Home & Kitchen,Cookware Set,5,4500,10,2250,20250,16895.26,New,UPI
+ORD10056,12/08/2025,West,Gujarat,Home & Kitchen,Mixer,2,3500,15,1050,5950,5434.11,New,Credit Card
+ORD10373,12/09/2025,South,Karnataka,Furniture,Bookshelf,4,7000,15,4200,23800,17611.23,Returning,UPI
+ORD10058,12/09/2025,North,Haryana,Furniture,Bookshelf,5,7000,0,0,35000,26648.84,Returning,UPI
+ORD10300,12/09/2025,West,Maharashtra,Home & Kitchen,Mixer,1,3500,10,350,3150,2274.58,Returning,Credit Card
+ORD10015,12/10/2025,West,Rajasthan,Home & Kitchen,Water Bottle,2,900,0,0,1800,1278.81,New,UPI
+ORD10425,12/12/2025,West,Goa,Furniture,Table,5,12000,5,3000,57000,39407.89,Returning,Credit Card
+ORD10161,12/15/2025,East,Bihar,Furniture,Bookshelf,2,7000,5,700,13300,9817.3,New,Credit Card
+ORD10293,12/15/2025,North,Punjab,Electronics,Headphones,3,2500,15,1125,6375,5983.1,New,Cash
+ORD10120,12/18/2025,North,Uttar Pradesh,Electronics,Laptop,5,55000,0,0,275000,170228.69,Returning,Credit Card
+ORD10148,12/18/2025,East,Jharkhand,Furniture,Sofa,4,30000,5,6000,114000,82665.02,New,Debit Card
+ORD10074,12/20/2025,South,Tamil Nadu,Electronics,Smartphone,4,25000,5,5000,95000,72887.82,Returning,UPI
+ORD10098,12/20/2025,West,Goa,Electronics,Laptop,4,55000,0,0,220000,176654.96,New,Credit Card
+ORD10060,12/20/2025,North,Haryana,Electronics,Headphones,2,2500,20,1000,4000,3190.83,Returning,UPI
+ORD10285,12/20/2025,South,Telangana,Home & Kitchen,Air Fryer,5,7000,10,3500,31500,21527.49,New,UPI
+ORD10214,12/21/2025,East,Jharkhand,Clothing,Shirt,5,1500,10,750,6750,5486.89,New,UPI
+ORD10354,12/21/2025,West,Maharashtra,Electronics,Laptop,2,55000,10,11000,99000,78710.8,New,Credit Card
+ORD10412,12/22/2025,West,Goa,Home & Kitchen,Cookware Set,4,4500,5,900,17100,12905.13,New,Credit Card
+ORD10389,12/22/2025,North,Uttar Pradesh,Electronics,Headphones,4,2500,5,500,9500,7033.21,Returning,Cash
+ORD10036,12/23/2025,North,Delhi,Electronics,Smartphone,5,25000,5,6250,118750,76452.11,Returning,UPI
+ORD10231,12/24/2025,South,Kerala,Clothing,Jeans,4,2200,5,440,8360,7210.34,New,UPI
+ORD10212,12/24/2025,East,Odisha,Clothing,Shirt,2,1500,10,300,2700,1911.44,Returning,UPI
+ORD10224,12/24/2025,West,Maharashtra,Home & Kitchen,Cookware Set,5,4500,5,1125,21375,17161.67,Returning,UPI
+ORD10068,12/25/2025,North,Uttar Pradesh,Electronics,Smartwatch,4,5000,10,2000,18000,16181.38,Returning,Credit Card
+ORD10351,12/25/2025,West,Goa,Electronics,Headphones,4,2500,10,1000,9000,6484.5,New,Credit Card
+ORD10360,12/27/2025,East,Jharkhand,Clothing,Shirt,1,1500,0,0,1500,1129.17,Returning,UPI
+ORD10288,12/27/2025,North,Uttar Pradesh,Electronics,Smartwatch,4,5000,5,1000,19000,15340.69,Returning,Debit Card
+ORD10496,12/28/2025,East,Bihar,Home & Kitchen,Mixer,4,3500,10,1400,12600,10388.88,Returning,Debit Card
+ORD10022,12/29/2025,North,Haryana,Home & Kitchen,Mixer,3,3500,0,0,10500,7831.63,New,UPI
+ORD10337,12/30/2025,North,Haryana,Electronics,Smartphone,2,25000,10,5000,45000,39649.88,New,UPI
+ORD10055,12/31/2025,East,Odisha,Clothing,Shoes,2,2800,15,840,4760,3437.05,Returning,UPI
+ORD10013,12/31/2025,East,West Bengal,Electronics,Laptop,5,55000,10,27500,247500,215939.21,New,UPI
+ORD10139,12/31/2025,East,Odisha,Home & Kitchen,Mixer,1,3500,10,350,3150,2240.92,Returning,Credit Card
